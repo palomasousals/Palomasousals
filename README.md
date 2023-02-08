@@ -14,7 +14,7 @@
   <img align="center" alt="Paloma-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Paloma-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Paloma-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Paloma-gif" src="https://cdn.discordapp.com/attachments/585774361462571010/1072323272613572648/Design_sem_nome.gif">
+  <img align="right" alt="Paloma-gif" src="https://cdn.discordapp.com/attachments/585774361462571010/1072323272613572648/Design_sem_nome.gif" width="100" heigth="100">
   </div>
 
 ##
